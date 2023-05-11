@@ -1,0 +1,63 @@
+[
+    {
+        "title": "Producto 1",
+        "price": 332,
+        "tumbnail": "no image",
+        "id": 1
+    },
+    {
+        "title": "Producto 2",
+        "price": 860,
+        "tumbnail": "no image",
+        "id": 2
+    },
+    {
+        "title": "Producto 3",
+        "price": 148,
+        "tumbnail": "no image",
+        "id": 3
+    },
+    {
+        "title": "Producto 4",
+        "price": 230,
+        "tumbnail": "no image",
+        "id": 4
+    },
+    {
+        "title": "Producto 5",
+        "price": 490,
+        "tumbnail": "no image",
+        "id": 5
+    },
+    {
+        "title": "Producto 6",
+        "price": 690,
+        "tumbnail": "no image",
+        "id": 6
+    },
+    {
+        "title": "Producto 7",
+        "price": 776,
+        "tumbnail": "no image",
+        "id": 7
+    },
+    {
+        "title": "Producto 8",
+        "price": 665,
+        "tumbnail": "no image",
+        "id": 8
+    },
+    {
+        "title": "Producto 9",
+        "price": 868,
+        "tumbnail": "no image",
+        "id": 9
+    },
+    {
+        "title": "Producto 10",
+        "price": 110,
+        "tumbnail": "no image",
+        "id": 10
+    }
+    
+]
