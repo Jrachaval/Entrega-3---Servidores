@@ -1,9 +1,14 @@
 import express from "express"
+import ProductManager from './ProductManager.js'
 const app = express()
 
+const productManager = new ProductManager ('./productfile.json');
+
+app.use(express.urlencoded({extended: true}));
+
 app.get('/products', async (req, res) =>{
-    const products = await productManager.getAll();
-    res.send(products)
+    const products = await productManager.getProducts();
+    res.send(products);
 })
 
 
